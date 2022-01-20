@@ -252,12 +252,12 @@
     height: 350px;
     border-radius: 4px;
     border: 1px solid lightgray;
-    box-shadow: 5px 5px 15px grey;
+    box-shadow: 2px 2px 2px grey;
     cursor: pointer;
 }
 
 #items .cards:hover{
-    box-shadow: 3px 3px 10px lightgray ;
+    box-shadow: 1px 1px 1px lightgray ;
 }
 
 #items .cards img{
